@@ -1,0 +1,10 @@
+EmpId,EmpName,ManagerId,DeptId,Age,Salary
+E1,Keshav,E4,4,23,5000
+E4,Darren,E5,4,28,10000
+E5,Karthik,E10,4,30,15000
+E2,Rohan,E6,1,32,12000
+E6,Amy,E10,1,32,14000
+E7,Eric,E10,3,30,15000
+E8,Tom,E9,2,26,12000
+E9,Lin,E10,2,48,14000
+E10,Satya,,5,52,50000
